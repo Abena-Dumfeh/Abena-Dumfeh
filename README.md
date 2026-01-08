@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Abena-Dumfeh/Abena-Dumfeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maame.
 
-Here are some ideas to get you started:
+I mostly work on backend smart contracts and blockchain-focused projects using Go and Python, especially around privacy, encryption, and decentralized applications. 
+I'm exploring how blockchain can be applied to real-world systems, such as healthcare and digital identity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work here is focused on learning by doing — small projects, experiments, and practice repositories as I deepen my understanding of backend and blockchain development.
+
+
+## Tools & Tech ##
+
+ ~ Golang, Python, Git
+
+ ~ Hyperledger Fabric blockchain, IPFS (basic usage), Docker 
+
+ ~ Linux (Ubuntu)
+
+
+## A Bit About Me ##
+
+- 🗣️ I teach English and enjoy explaining things simply  
+- 🌊 Ocean views relax me  
+- 🍫☕ Choco-latte over coffee  
+- 🧩 Small, meaningful projects > rushing big ones
